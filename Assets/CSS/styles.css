@@ -12,9 +12,14 @@
     justify-items: center;
 }
 
-
-header h3 {
+.nav {
     display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.moringa-school {
+    margin-right: auto;
 }
 
 span.color {
@@ -22,16 +27,19 @@ span.color {
 }
 
 header ul {
+    margin: 0;
+    padding: 0;
     list-style: none;
     display: inline;
 }
 
 header ul li {
-    display: inline;
-    padding: 15px;
+    display: inline-block;
+    margin: 20px;
 }
 
-header button {
+.enroll {
+    margin-top: 10px;
     float: right;
 }
 
