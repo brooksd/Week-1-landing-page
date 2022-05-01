@@ -1,5 +1,7 @@
 * {
     font-family: 'Nunito';
+    box-sizing: border-box;
+    text-decoration: none;
 }
 
 /* Header Section */
@@ -43,6 +45,11 @@ header ul li {
     float: right;
 }
 
+.enroll:hover {
+    color: black;
+    background: rgb(155, 117, 152);
+}
+
 /* The Body Section */
 
 body {
@@ -57,6 +64,7 @@ body {
     align-items: center;
     justify-content: center;
     margin: 20px 0 20px 0;
+    margin: auto;
 }
 
 img {
@@ -89,7 +97,19 @@ button {
     margin-left: 20px;
 }
 
+.explore:hover {
+    color: black;
+    background: rgb(155, 117, 152);
+}
+
+
 /* Orinetation Day Section */
+
+.highlight {
+    font-size: 35px;
+     background-color: rgba(120, 120, 120, 0.3);
+}
+
 
 .img-2 {
     flex-basis: 25%;
