@@ -1,7 +1,7 @@
 # Moringa School Landing Page
  ## By Donald Brooks Arum
 ## Screenshot
- ![image](./assets/delanii.png)
+ ![image](./Assets/images/hero.png)
  ## Table of Content
  - [Description](#description)
  - [Features](#features)
