@@ -21,7 +21,8 @@
 }
 
 .moringa-school {
-    margin-right: auto;
+    margin-right: 800px;
+    font-size: 25px;
 }
 
 span.color {
@@ -106,6 +107,12 @@ button {
     background: rgb(155, 117, 152);
 }
 
+/* Container 2 */
+
+.container-2 {
+    display: flex;
+    margin: 30px;
+}
 
 /* Orinetation Day Section */
 
@@ -117,37 +124,42 @@ button {
 
 
 .img-2 {
-    flex-basis: 25%;
+    flex-basis: 35%;
     float: left;
     margin-right: 30px;
+    margin-left: 110px;
 }
 
 .orientation-day {
-    margin-left: 40px;
+    margin: 50px 0 50px 100px;
+    font-size: 20px;
 }
 
 /* Board Meeting Section*/
 
 .img-3 {
-    flex-basis: 25%;
+    flex-basis: 35%;
     float: right;
     margin-left: 30px;
 }
 
 .board-meeting {
-    margin-right: 40px;
+    margin: 50px 180px 50px 110px;
+    font-size: 20px;
 }
 
 /* Graduation Party Section */
 
 .img-4 {
-    flex-basis: 25%;
+    flex-basis: 35%;
     float: left;
     margin-right: 30px;
+    margin-left: 110px;
 }
 
 .graduation-party {
-    margin-left: 40px;
+    margin: 50px 0 50px 100px;
+    font-size: 20px;
 }
 
 /* Technical Mentors Section*/ 
@@ -166,6 +178,21 @@ button {
     width: 100%;
 }
 
+.text-over {
+    position: relative;
+}
+
+.text-over figcaption {
+    position: absolute;
+    font-size: 20px;
+    bottom: 20px;
+    left: 20px;
+
+    /* Text Colors */
+
+    color: white;
+}
+
 /* Cool Website Section */
 
 .img-9 {
@@ -180,7 +207,7 @@ button {
 }
 
 .font-size-1 {
-    font-size: 22px;
+    font-size: 20px;
 }
 
 /* Footer Section */
