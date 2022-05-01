@@ -1,7 +1,7 @@
 # Moringa School Landing Page
  ## By Donald Brooks Arum
 ## Screenshot
- ![image] (./Assets/images/hero.png)
+ ![image](./Assets/images/hero-1.png)
  ## Table of Content
  - [Description](#description)
  - [Features](#features)
@@ -43,6 +43,7 @@ As a user of the website,you will be able to :
 ## Licence
 MIT License
 Copyright (c) [2022] [Donald Brooks Arum]
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -61,4 +62,5 @@ SOFTWARE.
 [Go Back to the top](#Moringa-School-Landing-Page)
 ## Authors Info
 Linkedin - [Donald Brooks Arum](https://ke.linkedin.com/in/donald-brooks-91574a188)
+   
 [Go Back to the top](#Moringa-School-Landing-Page)
