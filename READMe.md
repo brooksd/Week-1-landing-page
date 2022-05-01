@@ -33,7 +33,7 @@ As a user of the website,you will be able to :
 [Go Back to the top](#Moringa-School-Landing-Page)
 
 ### Live Link
-- Click this link to view the live application https://albert-byrone.github.io/delani/  
+- Click this link to view the live application https://brooksd.github.io/Week-1-landing-page/ 
 
 ### Technology  Used
 * HTML - The Makrup language was used in building the base structure of the webpage.
