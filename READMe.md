@@ -9,44 +9,40 @@
  - [Technology  Used](#technology-Used)
  - [Licence](#licence)
  - [Authors Info](#Authors-Info)
+
  ## Description
- <p>This project is a web application for Moringa School that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studio</p>
-[Go Back to the top](#delani-studio)
-## Features
-As a user of the application,you will be able to :
-1. See a description of what the services offered by the studio
-1. Can make inquiry through a form.
-[Go Back to the top](#delani-studio)
-## Behaviour Driven Development|
-| Behaviour      | Input        | Output       |
-| :------------- | :----------: | -----------: |
-|  Enter your name  |   Albert Byrone |     |
-| Enter your Email Address  | albertbyrone1677@gmail.com |   |
-| Enter your message or comment   |  I would like to inquire about something     |     |
-| Press Submit|     |Pop up "Albert Byrone , we have received your message. Thank you for reaching out to us.|
-[Go Back to the top](#delani-studio)
+ <p>This project is a simple static webpage for Moringa School that shows details about they offer as an institution, it has information about the Orientation process, Board Meetings and details about the Graduation day that show the Certificates and attire for completion.</p>
+ 
+ [Go Back to the top](#Moringa-School-Landing-Page)
+
+ ## Features
+As a user of the website,you will be able to :
+1. See a description of what the ongoings offered by the school
+2. See another example of a Bicycle site Landing page.
+[Go Back to the top](#Moringa-School-Landing-Page)
+
  ###  Requirements
- * Access to  a computer or any other garget
+ * Access to  a computer or any other gadget
  * Access to internet
  ### Installation Process
  ****
-* Clone to thir repo : git clone https://github.com/Albert-Byrone/delani.git
+* Clone to the repo : git clone https://github.com/brooksd/Week-1-landing-page.git
 * Unzip the downloaded files in a folder of choice.
 * Open the index file from the zipped file with any browser.
  ****
- [Go Back to the top](#delani-studio)
+[Go Back to the top](#Moringa-School-Landing-Page)
+
 ### Live Link
-- Click this link to view the live application https://albert-byrone.github.io/delani/
+- Click this link to view the live application https://albert-byrone.github.io/delani/  
+
 ### Technology  Used
-* HTML - which was used to develope the structure off the pages.
-* CSS - which was used to style the User Interface.
-* JQUERY - which was used for DOM(Document Object Manipulation) scripts.
-[Go Back to the top](#delani-studio)
-## Known Bugs
-* Mailchimp API does not function correctly as expected.
+* HTML - The Makrup language was used in building the base structure of the webpage.
+* CSS - which was used to style the HTML structure to achieve the visual result with a big emphasis on { display:flex; }.
+[Go Back to the top](#Moringa-School-Landing-Page)
+
 ## Licence
 MIT License
-Copyright (c) [2019] [Albert Byrone]
+Copyright (c) [2022] [Donald Brooks Arum]
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -62,8 +58,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-[Go Back to the top](#delani-studio)
+[Go Back to the top](#Moringa-School-Landing-Page)
 ## Authors Info
-Slack Profile - [Albert Byrone](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXCHMCNP?cdn_fallback=1)
-Linked - [Albert Byrone](https://www.linkedin.com/in/albert-byrone-664811144/)
-[Go Back to the top](#delani-studio)
+Linkedin - [Donald Brooks Arum](https://ke.linkedin.com/in/donald-brooks-91574a188)
+[Go Back to the top](#Moringa-School-Landing-Page)
