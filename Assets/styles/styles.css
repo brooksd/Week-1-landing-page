@@ -262,6 +262,7 @@ button {
 
 .ask:hover {
     color: black;
+    margin: 10px;
     background: rgb(155, 117, 152);
     box-shadow: 5px 10px 17px #ec4067 ;
 }
